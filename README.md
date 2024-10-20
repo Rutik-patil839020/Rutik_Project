@@ -1,6 +1,8 @@
-![WhatsApp Image 2024-10-20 at 11 58 24_fcc07dd5](https://github.com/user-attachments/assets/151d1a92-bd8d-4114-b2a8-f1bac57619b8)
-# Rutik_Project
+
+# Sentiment_Analysis_on_Youtube_video 
 This project presents a sentiment analysis tool for YouTube videos, aiming to gauge the emotional tone conveyed by the subtitles of a given video. The system allows users to input a YouTube video URL, from which the program extracts the subtitle text. Leveraging natural language processing techniques, the tool then performs sentiment analysis on the extracted text, providing users with insights into the overall sentiment of the video content. The sentiment analysis is conducted using a pre-trained machine learning model, which categorizes the text into positive or negative sentiments, accompanied by a corresponding score. The results are displayed through a graphical user interface (GUI), allowing users to visualize the sentiment history of analyzed videos. The project combines frontend and backend components, utilizing the Taipy Python framework for the GUI and integrating various libraries such as YouTube Transcript Api, pytube and pandas for data extraction and manipulation. In backend use the PunctuationModel like deepmultilingualpunctuation and pipeline as transformers which is from Hugging Face. The system offers a convenient means for users to analyze the sentiment of YouTube videos, providing valuable insights for content creators, researchers, and viewers alike.
 
 ![WhatsApp Image 2024-10-20 at 11 50 02_a92c0b97](https://github.com/user-attachments/assets/4d362105-45b5-4aba-a733-e3b42d797263)
+![WhatsApp Image 2024-10-20 at 12 03 42_1a6dd58a](https://github.com/user-attachments/assets/1b9f44eb-739e-4eb3-97ef-6f24d14114b2)
+![WhatsApp Image 2024-10-20 at 11 58 24_fcc07dd5](https://github.com/user-attachments/assets/d5518ee0-a35b-47a5-b743-56ca065bd500)
 
