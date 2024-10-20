@@ -1,0 +1,9 @@
+deepmultilingualpunctuation~=1.0.1
+youtube-transcript-api
+torch
+transformers~=4.38.2
+datasets
+taipy~=3.1.0
+scipy
+pandas~=2.2.0
+pytube~=15.0.0
